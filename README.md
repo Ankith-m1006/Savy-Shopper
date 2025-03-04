@@ -3,7 +3,7 @@
 ## Overview
 Savy Shopper is a modern e-commerce application that allows users to browse and purchase products seamlessly. Built with React and Tailwind CSS, it provides a responsive and user-friendly interface.
 
-![Application Screenshot](./public/screenshot.png)
+![Web App ](/public/Screenshot%202025-03-04%20160954.png)
 
 ## Key Features
 - Secure user authentication  
@@ -22,27 +22,15 @@ Savy Shopper is a modern e-commerce application that allows users to browse and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ankith-m1006/Savy-Shopper.git
-Install dependencies:
+   ```
+2. Install Dependencies:
+   ```bash
+   cd Savy-Shopper
+   npm install
+   ```
+3. Start the Application:
+   ```bash
+   npm start
 
-
-cd Savy-Shopper
-npm install
-Start the application:
-npm start
-Open your browser and navigate to http://localhost:3000 to explore Savy Shopper.
-
-Usage Instructions
-How to Shop
-Register or log in to your account.
-Browse available products in the store.
-Add products to your shopping cart.
-Proceed to checkout and place your order.
-Managing Your Orders
-Access the "My Orders" page from your profile.
-View your order history.
-Track your order status.
-Contributors
-Ankith M - 22bsm006@iiitdmj.ac.in
-markdown
-Copy
-Edit
+## Contributors
+- **Ankith M** - 22bsm006@iiitdmj.ac.in
